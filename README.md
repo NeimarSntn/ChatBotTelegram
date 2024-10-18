@@ -5,14 +5,18 @@ Este projeto implementa um chatbot no Telegram, desenvolvido para fornecer um at
 ## Funcionalidades
 - Respostas automáticas a perguntas frequentes.
 - Comandos personalizados para fornecer informações específicas.
-- Integração com APIs externas (opcional, se aplicável).
-- Suporte a múltiplos idiomas (se aplicável).
+- Integração com APIs externas.
 
 ## Tecnologias Utilizadas
 - **Linguagem:** Python
 - **Ferramentas:** Jupyter Notebook, API do Telegram
 
+$$ Resultados
+- Visualização de interações com o bot utilizando a AWS Athena.
 
+## Para melhor vizualização dos dados obtidos
+- Baixar o arquivo projeto-ebac-chatbot-telegram.ipynb
+- Vá para o site [Google Colab](https://colab.research.google.com)
 
 
 
