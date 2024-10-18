@@ -15,8 +15,9 @@ $$ Resultados
 - Visualização de interações com o bot utilizando a AWS Athena.
 
 ## Para melhor vizualização dos dados obtidos
-- Baixar o arquivo projeto-ebac-chatbot-telegram.ipynb
-- Vá para o site [Google Colab](https://colab.research.google.com)
-
+- Baixar o arquivo projeto-ebac-chatbot-telegram.ipynb.
+- Vá para o site [Google Colab](https://colab.research.google.com).
+- No menu principal, clique em "File" (Arquivo) e selecione "Upload notebook" (Carregar notebook).
+- Selecione o arquivo projeto-ebac-chatbot-telegram.ipynb.
 
 
