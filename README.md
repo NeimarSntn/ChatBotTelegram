@@ -11,7 +11,7 @@ Este projeto implementa um chatbot no Telegram, desenvolvido para fornecer um at
 - **Linguagem:** Python
 - **Ferramentas:** Jupyter Notebook, API do Telegram
 
-$$ Resultados
+## Resultados
 - Visualização de interações com o bot utilizando a AWS Athena.
 
 ## Para melhor vizualização dos dados obtidos
